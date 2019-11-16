@@ -1,1 +1,2 @@
-it is a teest readme
+Hi,we are learning Git together.
+Have a good time!
